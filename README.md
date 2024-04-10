@@ -1,1 +1,1 @@
-#### Handwritten Text Generation using GANs
+### Handwritten Text Generation using GANs
