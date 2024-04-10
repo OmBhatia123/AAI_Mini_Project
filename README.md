@@ -1,1 +1,1 @@
-# AAI_Mini_Project
+#### Handwritten Text Generation using GANs
